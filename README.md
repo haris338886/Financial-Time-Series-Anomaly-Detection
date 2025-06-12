@@ -55,5 +55,3 @@ This project combines **LSTM neural networks** for stock price forecasting and *
 
 ---
 
-## 📁 Repository Structure
-
